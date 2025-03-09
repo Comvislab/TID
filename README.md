@@ -1,4 +1,4 @@
-# TID
+# TID Project
 Talent Identification Project
 
 In sports, revealing athletes with high potential to excel in their endeavors for sports schools
