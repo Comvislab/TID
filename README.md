@@ -120,7 +120,8 @@ With 6 selected features on the TID dataset:
 
 ## Citation
 If you use our work, please cite our paper:
-@ARTICLE{10971350,
+
+- @ARTICLE{10971350,
   author={Abidin, Didem and Erdem, Muhammed G.},
   journal={IEEE Access}, 
   title={SCM-DL: Split-Combine-Merge Deep Learning Model Integrated With Feature Selection in Sports for Talent Identification}, 
