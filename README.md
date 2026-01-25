@@ -118,6 +118,20 @@ With 6 selected features on the TID dataset:
 - **Paper**: [https://dx.doi.org/10.1109/ACCESS.2025.3562551](https://dx.doi.org/10.1109/ACCESS.2025.3562551)
 - **GitHub**: [https://github.com/Comvislab/TID](https://github.com/Comvislab/TID)
 
+## Citation
+If you use our work, please cite our paper:
+@ARTICLE{10971350,
+  author={Abidin, Didem and Erdem, Muhammed G.},
+  journal={IEEE Access}, 
+  title={SCM-DL: Split-Combine-Merge Deep Learning Model Integrated With Feature Selection in Sports for Talent Identification}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={71148-71172},
+  keywords={Sports;Adaptation models;Feature extraction;Deep learning;Artificial neural networks;Data models;Psychology;Object recognition;Motors;Random forests;Deep learning;neural networks;recursive feature selection;talent identification},
+  doi={10.1109/ACCESS.2025.3562551}}
+
+
 ## 👤 Author
 
 **Muhammet Gökhan Erdem**
