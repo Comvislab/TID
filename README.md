@@ -121,6 +121,7 @@ With 6 selected features on the TID dataset:
 ## Citation
 If you use our work, please cite our paper:
 
+```
 - @ARTICLE{10971350,
   author={Abidin, Didem and Erdem, Muhammed G.},
   journal={IEEE Access}, 
@@ -131,7 +132,7 @@ If you use our work, please cite our paper:
   pages={71148-71172},
   keywords={Sports;Adaptation models;Feature extraction;Deep learning;Artificial neural networks;Data models;Psychology;Object recognition;Motors;Random forests;Deep learning;neural networks;recursive feature selection;talent identification},
   doi={10.1109/ACCESS.2025.3562551}}
-
+```
 
 ## 👤 Author
 
