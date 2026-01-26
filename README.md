@@ -1,6 +1,6 @@
 # SCM-DL: Talent Identification using Machine Learning
 
-A modular Python implementation for talent identification using Supply Chain Management combined with Deep Learning (SCM-DL).
+A modular Python implementation for talent identification using Split Combine Merge combined with Deep Learning (SCM-DL).
 
 ## 📋 Overview
 
