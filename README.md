@@ -61,7 +61,7 @@ This runs the complete pipeline:
 
 ## ⚙️ Configuration
 
-All hyperparameters are centralized in `config.py`:
+Some of the hyperparameters are listed as in `config.py`:
 
 | Parameter | Value | Description |
 |-----------|-------|-------------|
