@@ -55,7 +55,7 @@ python main.py 6
 
 This runs the complete pipeline:
 1. Loads the TID dataset
-2. Applies 8 feature selection methods
+2. Applies 9 feature selection methods
 3. Trains 5 classifiers on each feature subset
 4. Saves results, confusion matrices, and ROC plots
 
