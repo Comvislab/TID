@@ -19,7 +19,7 @@ BATCH_SIZE  = 16
 # =============================================================================
 # Paths
 # =============================================================================
-DATASET_DIR = '../DataSetTID'
+DATASET_DIR = 'DataSetTID'
 # DATASET_FILE = 'TIDMLStage2_numericcateg_240404.csv'
 # Alternative datasets:
 DATASET_FILE = 'TIDMLStage2_numericcateg_10K.csv'
