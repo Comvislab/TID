@@ -14,7 +14,7 @@ Author: Muhammet Gökhan Erdem
 SEED        = 42
 NUM_CLASSES = 6
 EPOCHS      = 200
-BATCH_SIZE  = 16
+BATCH_SIZE  = 32
 
 # =============================================================================
 # Paths
